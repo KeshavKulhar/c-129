@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-family: 'Macondo', cursive;
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    font-weight: bold;
+    color: blue;
+}
+
+.note{
+    font-size: 15px;
+    color: cyan;
+}
+
+#song_name{
+    font-size: 25px;
+}
+
+canvas{
+    border-radius: 20px;
+    border: 10px solid aqua;
+    margin-top: 20px;
+}
+
+.copyright_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: darkorange;
+    color: blue;
+}
